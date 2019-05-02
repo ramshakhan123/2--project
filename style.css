@@ -1,0 +1,178 @@
+body{
+    margin: 0px;
+    padding: 0px;;
+}
+
+header nav {
+	width: 100%
+}
+
+header nav ul {
+	list-style: none;
+	padding: 0;
+	text-align: center;
+}
+
+header nav ul li {
+	margin: 0 10px;
+	display: inline-block;
+	border: 1px solid black;
+    padding-left: 15px;
+    padding-right: 15px;
+	padding: 5px;
+}
+
+header nav ul li:hover {
+	color: black;
+	border: none;
+    border-bottom: 4px solid red;
+	transition: 1s ease all;
+}
+
+.s1 {
+    list-style: none;
+	text-align:  center;
+}
+
+.s1 li{
+    padding: 5px;
+    border: 1px solid black;
+    margin-right: 10px;
+    padding-right: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: red;
+	display: inline-block;
+}
+
+.h1{
+    text-align: center;
+    font-size: 35xpx;
+    color: green;
+	margin: 0;
+}
+
+.para{
+	text-align: center;
+	font-weight: bold;
+	font-size: 20px;
+	color: darkgreen;
+}
+
+.o1{
+    margin: 50px auto;
+    border: 1px solid black;
+	width: 500px;
+	text-align: center;
+}
+
+.btn{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: red;
+	width: 400px;
+	color: white;
+	font-weight: bold;
+	font-size: 20px;
+	margin: 0 50px;
+}
+
+.p1{
+    font-size: 30px;
+	transition: 1s ease all;
+	padding: 10px 0;
+}
+
+.p1:hover{
+    color: white;
+    background-color: rgb(247, 108, 247);
+}
+    
+/*.o3{
+    margin-left: 500px;
+    border: 1px solid black;
+    margin-right: 400px;
+}
+
+.btn3{
+    margin-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 140px;
+    padding-left: 140px;
+    background-color: red;
+}
+
+.p3{
+    padding-left: 120px;
+    margin-bottom: 30px;
+    font-size: 30px;
+}
+
+.p3:hover{
+    color: white;
+    background-color: rgb(247, 108, 247);
+    
+}
+
+.o4{
+    margin-left: 500px;
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-right: 400px;
+    padding-bottom: 60px;
+}
+
+.btn4{
+    margin-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 140px;
+    padding-left: 140px;
+    background-color: red;
+}
+
+.p4{
+    padding-left: 120px;
+    margin-bottom: -20px;
+    font-size: 30px;
+}
+
+.p4:hover{
+    color: white;
+    background-color: rgb(247, 108, 247);
+}*/
+
+#refine{
+    margin-top: -1000px;
+    border: 1px solid black;
+    padding-top: 5px;
+    margin-right: 1000px;
+    margin-left: 50px;
+	text-align: center;
+}
+
+#a1{
+    margin-right: 1000px;
+    margin-left: 50px;
+    border: 1px solid black;
+	padding: 10px 50px;
+}
+
+#occassion-wear{
+    margin-top: 400px;
+	padding: 40px;
+}
+
+#occassion-wear p{
+    margin: 0;
+	font-size: 20px;
+}
+
+#occassion-wear h5, h4, h1{
+    margin: 5px 0;
+	color: darkgreen;
+}
+
+
+
